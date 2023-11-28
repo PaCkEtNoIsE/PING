@@ -1,5 +1,5 @@
 # PING
-PING - "ping" of IP:PORT or DOMAIN throught Tor.
+💥PING - "ping" of IP:PORT or DOMAIN throught Tor. 
 
 ```
 Example:
